@@ -1,4 +1,3 @@
-- Aditya Singhal
 - [Kiefer Cover](https://github.com/kcover)
 - [Abhijeet Singh](https://github.com/abhi40308)
 - [Shaurya Gomber](https://github.com/shaurya31)
@@ -1558,3 +1557,4 @@
 - [Lovrenc Gregorcic](https://github.com/lovrenc)
 - [Ayush Rawal](https://github.com/ayush-rawal)
 - [Arica Chakraborty](https://github.com/uemarica)
+- [- Aditya Singhal](https://github.com/adidtu27)
