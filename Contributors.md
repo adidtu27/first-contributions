@@ -1,3 +1,4 @@
+- Aditya Singhal
 - [Kiefer Cover](https://github.com/kcover)
 - [Abhijeet Singh](https://github.com/abhi40308)
 - [Shaurya Gomber](https://github.com/shaurya31)
